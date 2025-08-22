@@ -53,8 +53,11 @@ A proposta é apresentar um ponto turístico real (ou fictício) por meio de uma
    ```bash
    git clone https://github.com/MarlonMuller/projeto-morroItacolomi
    ```
-
-2. Acesse a pasta do projeto e abra o arquivo `index.html` no navegador.
+2. Acesse a pasta do projeto:
+```bash
+cd projeto-loja-informatica
+```
+3. Abra o arquivo `index.html` no navegador.
 
 ---
 
@@ -77,7 +80,6 @@ A proposta é apresentar um ponto turístico real (ou fictício) por meio de uma
 
 ## ✍️ Autor
 
-Desenvolvido por **Marlon Müller**  
-[GitHub](https://github.com/MarlonMuller)
+### Desenvolvido por **[Marlon Muller](https://github.com/MarlonMuller)**
 
 ---
