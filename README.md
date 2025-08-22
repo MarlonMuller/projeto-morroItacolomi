@@ -55,7 +55,7 @@ A proposta é apresentar um ponto turístico real (ou fictício) por meio de uma
    ```
 2. Acesse a pasta do projeto:
 ```bash
-cd projeto-loja-informatica
+cd projeto-morroItacolomi
 ```
 3. Abra o arquivo `index.html` no navegador.
 
